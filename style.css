@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,700;1,800&display=swap');
+
+body {	
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;    
+	background: #fff;
+	color: #414042;	
+}
+
+a:hover {text-decoration: none;}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+::selection {
+    color: white; 
+    background: #ff7675;
+}
+
+::-webkit-selection {
+    color: white; 
+    background: #ff7675;
+}
+
+::-moz-selection {
+    color: white; 
+    background: #ff7675;
+}
+
+.scrolltotop {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px 20px 0 0;
+    background: rgba(0,0,0,.5);
+    display: block;
+    text-align: center;
+    padding-top: 8px;
+    font-size: 22px;
+    color: #ffffff;
+    position: fixed;
+    right: 5px;
+    bottom: 5px;
+    display: none;
+    transition: 0.2s all ease;
+    -webkit-transition: 0.2s all ease;
+    -moz-transition: 0.2s all ease;
+}
+
+.scrolltotop:hover {   
+    background: #000;
+    color: #fff;
+    box-shadow: 0px 0px 5px rgba(0,0,0,.5);
+    -webkit-box-shadow: 0px 0px 5px rgba(0,0,0,.5);
+    -moz-box-shadow: 0px 0px 5px rgba(0,0,0,.5);   
+}
+
+h1, h2, h3, h4, h5 , h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+a.link {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: #fff;
+    background-color: #2A7AB0;
+    border-radius: 6px;
+    display: inline-block;
+    padding: 10px 35px;
+    transition: all .2s ease;
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+}
+
+/* -- hero area start -- */
+#hero {
+    background-color: #F0F7FD;
+    padding: 45px 0px;
+}
+
+.logo a {
+    display: inline-block;
+}
+
+.logo img {
+   width: 235px;
+}
+
+.hero-left-text {
+    margin-top: 70px;
+}
+
+.hero-left-text h2 {
+    font-size: 36px;
+    margin-bottom: 0;
+}
+
+.hero-left-text p {
+    margin-bottom: 0;
+    font-size: 16px;
+    line-height: 1.9;
+    margin: 20px 0px;
+    padding-right: 80px;
+}
+
+.hero-right img {
+    display: block;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.hero-left-text a:hover {
+    opacity: .7;
+}
+
+
+
+/* -- hero area end -- */
+
+
+
+
+
+
+
+
+
+
+
