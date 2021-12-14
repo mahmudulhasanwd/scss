@@ -5,7 +5,57 @@ Medium Screen - Others
 */
 @media screen and (min-width: 992px) and (max-width: 1200px) {
 
+.hero-left-text p {
+   padding-right: 0;
+}
 
+.hero-left-text h2 {
+    font-size: 30px; 
+}
+
+.hero-left-text h2 br {
+   display: none;
+}
+
+#supports .support-wrapper {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.support-heading h2 {
+    font-size: 30px;
+}
+
+.use-wrapper,
+.form-wrapper {
+   padding-left: 0;
+   padding-right: 0;
+}
+
+.student-one .student-one-content h4 {
+    font-size: 18px;
+}
+
+.student-one .student-one-content p {
+   padding-right: 0;
+}
+
+.student-one .student-one-content {
+    height: 310px;
+}
+
+.align-items-center {
+   display: block;
+}
+
+.connect-block-right {
+   padding-left: 0;
+}
+
+.form-left {
+   padding-left: 0!important;
+   padding-right: 0!important;
+}
 
 
 
@@ -45,7 +95,57 @@ Small Screen - Tablate
 @media screen and (min-width: 768px) and (max-width: 991px) {
 
 
+.hero-left-text p {
+   padding-right: 0;
+}
 
+.hero-left-text h2 {
+    font-size: 30px; 
+}
+
+.hero-left-text h2 br {
+   display: none;
+}
+
+#supports .support-wrapper {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.support-heading h2 {
+    font-size: 30px;
+}
+
+.use-wrapper,
+.form-wrapper {
+   padding-left: 0;
+   padding-right: 0;
+}
+
+.student-one .student-one-content h4 {
+    font-size: 18px;
+}
+
+.student-one .student-one-content p {
+   padding-right: 0;
+}
+
+.student-one .student-one-content {
+    height: 390px;
+}
+
+.align-items-center {
+   display: block;
+}
+
+.connect-block-right {
+   padding-left: 0;
+}
+
+.form-left {
+   padding-left: 0!important;
+   padding-right: 0!important;
+}
 
 
 
@@ -82,7 +182,145 @@ Small Screen - Mobile
 */
 @media screen and (min-width: 576px) and (max-width: 767px) {	
 
+.logo {
+   text-align: center;
+}
 
+.logo img {
+    width: 175px;
+}
+
+.hero-left-text {
+    margin-top: 35px;
+}
+
+.hero-left-text h2 {
+    font-size: 30px; 
+}
+
+.hero-left-text h2 br {
+   display: none;
+}
+
+.hero-left-text p {
+   padding-right: 0;
+}
+
+.hero-left-text {
+   text-align: center;
+}
+
+#hero {
+   padding: 25px 0px;
+}
+
+#supports {
+   padding: 40px 0px;
+   background: none;
+   background-color: #2A7AB0;
+}
+
+#supports .support-wrapper {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.support-heading h2 {
+   font-size: 30px;
+}
+
+.support-left p {
+   padding-right: 0;
+}
+
+.use-wrapper {
+    padding-left: 0px;
+    padding-right: 0px;
+} 
+
+#use {
+    padding-top: 40px;
+    padding-bottom: 40px;
+} 
+
+.use-heading h2 {
+   font-size: 30px;
+}
+
+.use-heading h2 br {
+   display: none;
+}
+
+.student-one .student-one-content h4 {
+    font-size: 20px;
+}
+
+.student-one .student-one-content p {
+   padding-right: 0;
+}
+
+.student-one {
+   margin-top: 25px;
+}
+
+#student {
+   padding-bottom: 40px;
+}
+
+#connect {
+   padding: 40px 0px;
+   background: none;
+   background-color: #F4F8FB;
+}
+
+.connect-heading h2 {
+   font-size: 30px;
+}
+
+.connect-heading h2 br {
+   display: none;
+}
+
+.align-items-center {
+   display: block;
+}
+
+.connect-block-right {
+   padding-left: 0;
+}
+
+#faq {
+    padding: 40px 0px;
+}
+
+.faq-heading h2 {
+   font-size: 30px;
+}
+
+#form {
+   padding: 40px 0px;
+}
+
+.form-wrapper {
+   padding: 0;
+}
+
+.form-left {
+   padding: 0!important;
+}
+
+.footer-wrapper {
+   display: block;
+   text-align: center;
+}
+
+.footer-right {
+   margin-top: 15px;
+}
+
+footer {
+   padding: 10px 0px;
+}
 
 
 
@@ -117,7 +355,145 @@ Xtra Small Screen - Small Mobile
 */
 @media screen and (max-width: 576px) {
 
+.logo {
+   text-align: center;
+}
 
+.logo img {
+    width: 175px;
+}
+
+.hero-left-text {
+    margin-top: 35px;
+}
+
+.hero-left-text h2 {
+    font-size: 30px; 
+}
+
+.hero-left-text h2 br {
+   display: none;
+}
+
+.hero-left-text p {
+   padding-right: 0;
+}
+
+.hero-left-text {
+   text-align: center;
+}
+
+#hero {
+   padding: 25px 0px;
+}
+
+#supports {
+   padding: 40px 0px;
+   background: none;
+   background-color: #2A7AB0;
+}
+
+#supports .support-wrapper {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.support-heading h2 {
+   font-size: 30px;
+}
+
+.support-left p {
+   padding-right: 0;
+}
+
+.use-wrapper {
+    padding-left: 0px;
+    padding-right: 0px;
+} 
+
+#use {
+    padding-top: 40px;
+    padding-bottom: 40px;
+} 
+
+.use-heading h2 {
+   font-size: 30px;
+}
+
+.use-heading h2 br {
+   display: none;
+}
+
+.student-one .student-one-content h4 {
+    font-size: 20px;
+}
+
+.student-one .student-one-content p {
+   padding-right: 0;
+}
+
+.student-one {
+   margin-top: 25px;
+}
+
+#student {
+   padding-bottom: 40px;
+}
+
+#connect {
+   padding: 40px 0px;
+   background: none;
+   background-color: #F4F8FB;
+}
+
+.connect-heading h2 {
+   font-size: 30px;
+}
+
+.connect-heading h2 br {
+   display: none;
+}
+
+.align-items-center {
+   display: block;
+}
+
+.connect-block-right {
+   padding-left: 0;
+}
+
+#faq {
+    padding: 40px 0px;
+}
+
+.faq-heading h2 {
+   font-size: 30px;
+}
+
+#form {
+   padding: 40px 0px;
+}
+
+.form-wrapper {
+   padding: 0;
+}
+
+.form-left {
+   padding: 0!important;
+}
+
+.footer-wrapper {
+   display: block;
+   text-align: center;
+}
+
+.footer-right {
+   margin-top: 15px;
+}
+
+footer {
+   padding: 10px 0px;
+}
 
 
 
